@@ -1,0 +1,2 @@
+# -Pipeline-Landslide-Susceptibility-Assessment-System
+本项目专门针对管道和线性工程的滑坡易发性评估，包含两个主要的Python脚本，用于地质滑坡风险评估和岩性数据处理。该系统结合了多种机器学习算法来分析和预测管道沿线滑坡发生的概率，为管道安全运营提供科学依据。
